@@ -1,22 +1,27 @@
 1. git --version
 2. git config --global user.name " "
 3. git config --global user.email " "
-4. git config user.name
+4. git config --global user.password " "
+5. git config user.name
 5. git config user.email
-6. git config --list
-7. git clone "ssh/https"
-8. pwd
-9. mkdir folder_name
-10. cd folder_name
-11. git init
-12. git add "filename "
-13. git status
-14. git commit -m filename
-15. git status
-16. git remote add origin https://github.com/---
-17. git remote -v 
-18. git push -u origin master
-19. git status
-20. git pull origin master
+6. git config user.password
+7. git config --list
+8. git clone "ssh/https"
+9. pwd
+10. mkdir folder_name(to create a folder)
+11. cd folder_name
+12. git init
+13. git add "filename "
+14. git status
+15. git commit -m filename
+16. git status
+17. git remote add origin https://github.com/---
+18. git remote -v 
+19. git push -u origin master
+20. git status
+21. git pull origin master
 
-21.git remote add origin https://github.com/Ayeshafatima-86/Test_Python.git
+22. git remote add origin https://github.com/Ayeshafatima-86/Test_Python.git
+23. git checkout -b main(creating new branch)
+24. touch filename.format(to create a file)
+
